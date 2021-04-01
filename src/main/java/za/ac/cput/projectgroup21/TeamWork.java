@@ -10,9 +10,9 @@ package za.ac.cput.projectgroup21;
  *
  * @author 219013012 Chadrac Mbuyi
  */
-public class TeamWork {
-    public Square (double len){}
-    public double area() {return 0; }
-    public void setSidelength() {}
+    public class TeamWork {
+        public int add(String s1, String s2){ 
+                return 0;
+    }
 
 }
