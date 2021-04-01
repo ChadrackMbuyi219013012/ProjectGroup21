@@ -11,8 +11,15 @@ package za.ac.cput.projectgroup21;
  * @author 219013012 Chadrac Mbuyi
  */
     public class TeamWork {
-        public int add(String s1, String s2){ 
-                return 0;
+        public int addition(String num1, String num2, String num3){
+            
+            int team1 = integer.parselnt(num1);
+            int team2 = integer.parselnt(num2);
+            int team3 = integer.parselnt(num3);
+            team3 = team1;
+            
+            
+            return team1 + team2 + team3;
+        }
+    
     }
-
-}
